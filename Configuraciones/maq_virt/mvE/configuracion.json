@@ -1,0 +1,9 @@
+{   
+    "orginVM":"Standar",
+    "tipoVM":"estatica",
+    "nombre":"LabStatic",
+    "rutaHost":"C:/Users/Crow9/Desktop",
+    "ipCmd":"192.168.56.1",
+    "snapshot":"status-quo",
+    "snapshotNew":"StaticShot"
+}

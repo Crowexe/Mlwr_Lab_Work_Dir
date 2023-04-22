@@ -1,0 +1,70 @@
+ExifTool Version Number         : 12.40
+File Name                       : ransomware.jpg
+Directory                       : /home/analista
+File Size                       : 2.7 MiB
+File Modification Date/Time     : 2023:04:18 08:25:22+00:00
+File Access Date/Time           : 2023:04:18 08:25:24+00:00
+File Inode Change Date/Time     : 2023:04:18 08:25:22+00:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : samsung
+Camera Model Name               : SM-A525M
+Orientation                     : Rotate 90 CW
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : A525MUBS4BVE1
+Modify Date                     : 2022:07:11 17:00:20
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/24
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 640
+Exif Version                    : 0220
+Date/Time Original              : 2022:07:11 17:00:20
+Create Date                     : 2022:07:11 17:00:20
+Offset Time                     : -05:00
+Offset Time Original            : -05:00
+Shutter Speed Value             : 1
+Aperture Value                  : 1.8
+Exposure Compensation           : 0
+Max Aperture Value              : 1.8
+Metering Mode                   : Center-weighted average
+Flash                           : No Flash
+Focal Length                    : 5.2 mm
+Color Space                     : sRGB
+Exif Image Width                : 4624
+Exif Image Height               : 2084
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 24 mm
+Scene Capture Type              : Standard
+Image Unique ID                 : F64ESNGR1YM
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 794
+Thumbnail Length                : 40007
+Image Width                     : 4624
+Image Height                    : 2084
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Time Stamp                      : 2022:07:11 22:00:20+00:00
+MCC Data                        : 334
+Aperture                        : 1.8
+Image Size                      : 4624x2084
+Megapixels                      : 9.6
+Scale Factor To 35 mm Equivalent: 4.6
+Shutter Speed                   : 1/24
+Date/Time Original              : 2022:07:11 17:00:20-05:00
+Modify Date                     : 2022:07:11 17:00:20-05:00
+Thumbnail Image                 : (Binary data 40007 bytes, use -b option to extract)
+Circle Of Confusion             : 0.007 mm
+Field Of View                   : 73.7 deg
+Focal Length                    : 5.2 mm (35 mm equivalent: 24.0 mm)
+Hyperfocal Distance             : 2.32 m
+Light Value                     : 3.6

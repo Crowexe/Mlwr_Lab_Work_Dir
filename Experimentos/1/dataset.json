@@ -1,0 +1,19 @@
+{
+    "malware":{
+        "url":"",
+        "ruta":"C:/Users/Crow9/Desktop/Mlwr_Lab_Work_Dir/Configuraciones/scripts/malwares/"     
+    },
+    "pruebas":[{
+        "estaticas":{
+            "file":"true",
+            "exiftool":"true",
+            "MD5":"true",
+            "SHA1":"true",
+            "SHA256":"true"
+        }},
+        {"dinamicas":{
+            "objdump":"false",
+            "strace":"false"
+        }
+    }]
+}

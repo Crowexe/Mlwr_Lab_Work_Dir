@@ -1,0 +1,1 @@
+/home/analista/ransomware.jpg: JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=12, height=2084, manufacturer=samsung, model=SM-A525M, orientation=upper-right, xresolution=210, yresolution=218, resolutionunit=2, software=A525MUBS4BVE1, datetime=2022:07:11 17:00:20, width=4624], baseline, precision 8, 4624x2084, components 3
